@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Harkardah</h1>
+  <iframe src="https://status.harkardah.com/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"></iframe>
   <p>A Campus Social Media Chat App</p>
 </div>
 
