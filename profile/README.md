@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Harkardah</h1>
-  <iframe src="https://status.harkardah.com/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"></iframe>
+ [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1hs3j.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
   <p>A Campus Social Media Chat App</p>
 </div>
 
