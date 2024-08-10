@@ -1,7 +1,9 @@
 <div align="center">
   <h1>Harkardah</h1>
- [![Better Stack Badge](https://uptime.betterstack.com/status-badges/v2/monitor/1hs3j.svg)](https://uptime.betterstack.com/?utm_source=status_badge)
   <p>A Campus Social Media Chat App</p>
+  <a href="https://uptime.betterstack.com/?utm_source=status_badge">
+    <img src="https://uptime.betterstack.com/status-badges/v2/monitor/1hs3j.svg" alt="Better Stack Badge">
+  </a>
 </div>
 
 ## Table of Contents
